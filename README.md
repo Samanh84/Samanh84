@@ -24,7 +24,7 @@
 <h3 align="center">🚀 Featured Projects</h3>
 
 <p align="center">
-  🔹 <a href="https://github.com/Samanh2005/Project1">Project 1</a> – short description <br>
+  🔹 <a href="https://github.com/Samanh84/Postino">Postino</a> – A postal site with tracking code and mail delivery record. <br>
   🔹 <a href="https://github.com/Samanh2005/Project2">Project 2</a> – short description
 </p>
 
