@@ -25,7 +25,7 @@
 
 <p align="center">
   🔹 <a href="https://github.com/Samanh84/Postino">Postino</a> – A postal site with tracking code and mail delivery record.<br>
-  🔹 <a href="https://github.com/Samanh84/Project2">Project 2</a> – Short description.<br>
+  🔹 <a href="#">Project 2</a> – Short description.<br>
 </p>
 
 ---
