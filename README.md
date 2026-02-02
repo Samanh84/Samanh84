@@ -6,9 +6,9 @@
 
 <p align="center">
   I'm <b>Saman</b><br>
-  💻 Backend Developer passionate about building scalable and reliable applications.<br>
-  🐍 Mainly working with <b>Python</b> & <b>Django</b>.<br>
-  ⚡ Enthusiastic about clean code, open-source, and continuous learning.<br>
+  💻 Backend developer passionate about building scalable, reliable applications<br>
+  🐍 Mainly working with <b>Python </b> and <b>Django </b>.<br>
+  ⚡ Enthusiastic about clean code, open source, and continuous learning<br>
 </p>
 
 ---
